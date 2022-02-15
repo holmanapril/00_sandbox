@@ -1,1 +1,2 @@
-name = input("hi")
+name = input("how is it going?")
+
