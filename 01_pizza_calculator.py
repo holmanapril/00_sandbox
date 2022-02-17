@@ -16,7 +16,7 @@ if size > 10:
     total_cost += 2
 
 if cheese == "y":
-    total_cost -= -0.5
+    total_cost -= 0.5
 
 if pizza_type == "vegetable" or pizza_type == "vegan":
     total_cost += 1
